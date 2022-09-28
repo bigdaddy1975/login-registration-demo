@@ -7,3 +7,10 @@ There is some opinionated/standard stuff included for ESLint and Prettier. These
 Finally, there are a few [recommended extensions](./.vscode/extensions.json). You'll probably want these.
 
 Hope it helps. Give it a ⭐, will ya? 🤓
+
+# From a few weeks ago these were a few of the techniques that I learned from the MarkDown tutorial.
+Familiarization with MarkDown techniques
+# Some techniques are easier to remember over others. **Having a reference resource is even better .**
+*Some techniques are fun.*
+> Other techniques are just necessary.
+![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
